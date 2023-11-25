@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "807920090403",
+    "project_id": "sociall-app-b7268",
+    "storage_bucket": "sociall-app-b7268.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807920090403:android:a9fbdd59f1b4cdd3eda096",
+        "android_client_info": {
+          "package_name": "com.example.sociall_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuY8xJZ6gD5voMoSJp7JaGFL43Ps0jq4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
